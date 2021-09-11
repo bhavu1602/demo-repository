@@ -1,6 +1,6 @@
 //============================================================================
 // Name        : HellWorld.cpp
-// Author      : 
+// Author      : Bhavya Gopi
 // Version     :
 // Copyright   : Your copyright notice
 // Description : Hello World in C++, Ansi-style
